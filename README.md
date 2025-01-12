@@ -28,7 +28,7 @@ Olá! Sou Pedro Jorge, um desenvolvedor e empreendedor apaixonado por tecnologia
 
 ## 🔎 Curiosidades
 
-Comecei a trabalhar com 14 anos como designer gráfico, chegando a trabalhar em 3 agências oa mesmo tempo. Das duas vezes que sai do Pais os voos atrasados, ficando 1 dia no Aeroporto de Chicago e em outra vez 1 dia em Nova York. Já estive matriculado em 4 faculdades.
+Comecei a trabalhar com 14 anos como designer gráfico, chegando a trabalhar em 3 agências ao mesmo tempo. Das duas vezes que sai do Pais os voos atrasara , ficando 1 dia no Aeroporto de Chicago e em outra vez 1 dia em Nova York. Já estive matriculado em 4 faculdades.
 
 ## 💡 Buddy
 Confira o trabalho incrível do meu buddy que me ajudou e apoiou em todo o processo seletivo da minha atual faculdade [Daniel Augusto](https://github.com/odanielaugusto)!
