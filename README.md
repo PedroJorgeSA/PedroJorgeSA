@@ -6,6 +6,12 @@
 [![Behance](https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/PedroJAlves)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.pedrojorge@gmail.com)
 
+• Estudante do Inteli (Instituto de Tecnologia e Liderança) com foco em desenvolvimento de software e inteligência artificial, atuando na construção de soluções tecnológicas com impacto real.
+
+• Experiência prática com desenvolvimento full-stack, Python, JavaScript e criação de produtos digitais, incluindo projetos em fintech e aplicações com IA.
+
+• Atual presidente da Liga de IA do Inteli, liderando projetos com a Nvidia, Adapta e Gemini.
+
 ![906058192182393 65d764a1e925d](https://github.com/user-attachments/assets/d04cdde3-0da0-49fa-b2d8-2ee179c4cff3)
 
 
